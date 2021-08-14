@@ -1,0 +1,2 @@
+rootProject.name = "recycler PracticebyNr"
+include ':app'
